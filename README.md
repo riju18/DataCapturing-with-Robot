@@ -1,2 +1,12 @@
 # DataCapturing with robot
- Two database operation simultaneously with a robot.
+# Instruction:
+
+    open uiPath studio
+    
+    download zip folder
+    
+    extract it
+    
+    open the folder in uiPath studio
+    
+    open main.xml
