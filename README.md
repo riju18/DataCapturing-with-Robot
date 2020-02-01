@@ -1,15 +1,15 @@
 # DataCapturing with robot
 # Instruction:
 
-    open uiPath studio
+    1) open uiPath studio;
     
-    download zip folder
+    2) download zip folder;
     
-    extract it
+    3) extract it;
     
-    open the folder in uiPath studio
+    4) open the folder in uiPath studio;
     
-    open main.xml
+    5) open main.xaml;
     
 ![destop](https://user-images.githubusercontent.com/18087611/73589288-7eec0380-44fe-11ea-9b53-e4ba15d2dd24.JPG)
 
